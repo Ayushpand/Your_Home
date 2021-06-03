@@ -1,0 +1,136 @@
+body{
+    font-family: "Montserrat" !important;
+}
+#title{
+  background-color:  #845460;
+}
+h2, h3{
+  font-family: "Montserrat-Bold 700" !important;
+
+}
+h2{
+  font-family: "Montserrat-Bold 700" !important;
+  font-size: 3rem !important;
+  line-height: 1.5 !important;
+}
+p{
+  color: Black;
+}
+.container-fluid{
+  padding: 3%  2% ;
+  margin-left: 200%;
+}
+.font{
+  font-family: "Montserrat-Black Bold" !important;
+  font-size: 4rem;
+  line-height: 2;
+  color: #1b1717;
+}
+#title{
+    padding: 3% 20% 2% ;
+}
+/* Navbar */
+.navbar{
+  padding-bottom: 4.5rem !important;
+}
+.navbar-brand{
+  font-family: "Ubuntu" !important;
+  font-size: 2rem !important;
+  font-weight: bolder;
+  font-size: 40px !important;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 2rem;
+  font-family: "Montserrat-Light";
+}
+/* download button */
+.download-button{
+  margin: 5% 3% 2% 0%;
+}
+/* title image */
+.titke-image{
+  width: 60%;
+  height: 60%;
+}
+#features{
+  padding: 7% 15% ;
+}
+
+/* features section */
+.features{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #845460;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #564a4a;
+}
+/* testimonial section */
+#testimonials{
+
+  text-align: center;
+  background-color: #ffb26b;
+  color: Black;
+}
+.test-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ffb26b;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width:15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* pricing */
+#pricing{
+  padding: 100px;
+  text-align:center;
+
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+@media (max-width:1028px){
+  #title{
+    text-align: center;
+  }
+    .title-image{
+    position:static;
+  }
+}
+#cta{
+  background-color:  #845460;
+    text-align:center;
+    font-family: "Montserrat-Bold 700" !important;
+    padding: 7% 15%;
+    color: black;
+}
+.cta-heading{
+  font-family: "Montserrat-Black"!important;
+  font-size: 3.5rem !important;
+  line-height: 1.5;
+}
+#footer{
+  padding: 7% 15%;
+  background-color:  #fff;
+  text-align:center;
+
+}
+.social-icon{
+  margin: 10px 20px;
+}
